@@ -81,6 +81,6 @@ The vehicle can stop properly. This is the picture at the finish line:
 <br />
 <p align="center">
   <a href="https://github.com/ZhaiKexuan/Adaptive-Cruise-Control-and-Autonomous-Lane-Keeping/blob/master/imgaes/Picture4.png">
-    <img src="images/Picture4.png" alt="Picture4" width="80" height="80">
+    <img src="/images/Picture4.png" alt="Picture4" width="80" height="80">
   </a>
 
