@@ -18,9 +18,9 @@ The team decided to place two sensors at the front of the vehicle and use Kalman
 
 - Sampling
 
- - Send and receive sound waves from two ultrasonic sensors
- - Read high pulse durations of both sensors
- - Before Kalman filter fusion implementation, divide sensor outputs by 200 to convert into total time value in microseconds
+ <pre>- Send and receive sound waves from two ultrasonic sensors
+ <pre>- Read high pulse durations of both sensors
+ <pre>- Before Kalman filter fusion implementation, divide sensor outputs by 200 to convert into total time value in microseconds
 
 - Fusion with Kalman filter
 
