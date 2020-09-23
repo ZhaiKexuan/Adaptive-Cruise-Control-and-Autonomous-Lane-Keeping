@@ -8,6 +8,8 @@
 
 To keep the vehicle 30 cm away from any obstacle ahead. If obstacles ahead are stationary, the vehicle should stop 30 cm away from the obstacles.
 
+<div align=center><img width="400" height="400" alt="Figure 6: The Experimental Result at the Finish Line" src="https://github.com/ZhaiKexuan/Adaptive-Cruise-Control-and-Autonomous-Lane-Keeping/blob/master/imgaes/Picture1.png"/></div>
+
 ---
 
 ## 1.2	Technical Approach
@@ -74,9 +76,8 @@ The team decided to place two sensors at the front of the vehicle and use Kalman
 ## 1.4 Experimental Results
 
 The experimental result at the start line is shown in the figure below:
-
+<div align=center><img width="400" height="400" alt="Figure 6: The Experimental Result at the Finish Line" src="https://github.com/ZhaiKexuan/Adaptive-Cruise-Control-and-Autonomous-Lane-Keeping/blob/master/imgaes/Picture3.png"/></div>
 The vehicle can stop properly. This is the picture at the finish line: 
 
-![image](https://github.com/ZhaiKexuan/Adaptive-Cruise-Control-and-Autonomous-Lane-Keeping/blob/master/imgaes/Picture4.png)
-<div align=center><img width="256" height="256" alt="Figure 6: The Experimental Result at the Finish Line" src="https://github.com/ZhaiKexuan/Adaptive-Cruise-Control-and-Autonomous-Lane-Keeping/blob/master/imgaes/Picture4.png"/></div>
+<div align=center><img width="400" height="400" alt="Figure 6: The Experimental Result at the Finish Line" src="https://github.com/ZhaiKexuan/Adaptive-Cruise-Control-and-Autonomous-Lane-Keeping/blob/master/imgaes/Picture4.png"/></div>
 
