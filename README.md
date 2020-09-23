@@ -47,25 +47,18 @@ The team decided to place two sensors at the front of the vehicle and use Kalman
 
 ## 1.3	Hardware and Software Implementation
 
-- Hardware Implementation:
-
- <pre>
+- Hardware Implementation:<pre>
  • The vehicle battery pack used to power servo motor for throttle
  • Portable power bank used to power Arduino
  • Steering control powered by Arduino Vin pin
- • Ultrasonic sensor 1:
-  <pre>
+ • Ultrasonic sensor 1:<pre>
   •	Trig to Arduino pin 5
   •	Echo to Arduino pin 4
   •	Ground shared with all other ultrasonic sensors
-  •	5V power shared between all other ultrasonic sensors
-  </pre>
- •	Ultrasonic sensor 2:
-  <pre>
+  •	5V power shared between all other ultrasonic sensors</pre>
+ •	Ultrasonic sensor 2:<pre>
   • Trig to Arduino pin 3
-  • Echo to Arduino pin 2
-  </pre>
- </pre>
+  • Echo to Arduino pin 2</pre></pre>
 
 - Software Implementation
  
@@ -88,6 +81,6 @@ The vehicle can stop properly. This is the picture at the finish line:
 <br />
 <p align="center">
   <a href="https://github.com/ZhaiKexuan/Adaptive-Cruise-Control-and-Autonomous-Lane-Keeping/blob/master/imgaes/Picture4.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/Picture4.png" alt="Picture4" width="80" height="80">
   </a>
 
