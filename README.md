@@ -53,7 +53,7 @@ The team decided to place two sensors at the front of the vehicle and use Kalman
     - Trig to Arduino pin 3
     - Echo to Arduino pin 2
 
-<div align=center><img src="https://github.com/ZhaiKexuan/Adaptive-Cruise-Control-and-Autonomous-Lane-Keeping/blob/master/imgaes/Picture2.png"/></div>
+<div align=center><img src="https://github.com/ZhaiKexuan/Adaptive-Cruise-Control-and-Autonomous-Lane-Keeping/blob/master/imgaes/Picture2.jpg"/></div>
 
 
 - Software Implementation
