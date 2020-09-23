@@ -78,5 +78,5 @@ The experimental result at the start line is shown in the figure below:
 The vehicle can stop properly. This is the picture at the finish line: 
 
 ![image](https://github.com/ZhaiKexuan/Adaptive-Cruise-Control-and-Autonomous-Lane-Keeping/blob/master/imgaes/Picture4.png)
-<div align=center><img width="500" height="500" alt="Figure 6: The Experimental Result at the Finish Line" src="https://github.com/ZhaiKexuan/Adaptive-Cruise-Control-and-Autonomous-Lane-Keeping/blob/master/imgaes/Picture4.png"/></div>
+<div align=center><img width="256" height="256" alt="Figure 6: The Experimental Result at the Finish Line" src="https://github.com/ZhaiKexuan/Adaptive-Cruise-Control-and-Autonomous-Lane-Keeping/blob/master/imgaes/Picture4.png"/></div>
 
