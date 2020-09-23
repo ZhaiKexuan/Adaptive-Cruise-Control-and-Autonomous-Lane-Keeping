@@ -1,6 +1,6 @@
-# Implement Adaptive Cruise Control and Autonomous Lane Keeping on RC Vehicles Utilizing Arduino Uno
+# Implement Adaptive Cruise Control and Autonomous Lane Keeping on RC Vehicles Utilizing Arduino UNO
 
-**Adaptive Cruise Control**
+*Adaptive Cruise Control*
 
 ---
 
@@ -20,21 +20,17 @@ The team decided to place two sensors at the front of the vehicle and use Kalman
 
 - Sampling
 
- <pre>
- • Send and receive sound waves from two ultrasonic sensors
- • Read high pulse durations of both sensors
- • Before Kalman filter fusion implementation, divide sensor outputs by 200 to convert into total time value in microseconds
- </pre>
+ * Send and receive sound waves from two ultrasonic sensors
+ * Read high pulse durations of both sensors
+ * Before Kalman filter fusion implementation, divide sensor outputs by 200 to convert into total time value in microseconds
 
 - Fusion with Kalman filter
 
- <pre>
- • Used same R-value for both sensors as calculated in part 2 of project 1
- • Set same initialized updated error covariance to 100000
- • rediction stage using the first sensor output as the prediction
- • Correction stage 1 updated state estimate using the first sensor output
- • Correction stage 2 updated state estimate using second sensor output and state estimate from correction stage 1
- </pre>
+ * Used same R-value for both sensors as calculated in part 2 of project 1
+ * Set same initialized updated error covariance to 100000
+ * rediction stage using the first sensor output as the prediction
+ * Correction stage 1 updated state estimate using the first sensor output
+ * Correction stage 2 updated state estimate using second sensor output and state estimate from correction stage 1
 
 - PID Controller
 
@@ -76,7 +72,9 @@ The team decided to place two sensors at the front of the vehicle and use Kalman
 ## 1.4 Experimental Results
 
 The experimental result at the start line is shown in the figure below:
+
 <div align=center><img src="https://github.com/ZhaiKexuan/Adaptive-Cruise-Control-and-Autonomous-Lane-Keeping/blob/master/imgaes/Picture3.png"/></div>
+
 
 The vehicle can stop properly. This is the picture at the finish line: 
 
