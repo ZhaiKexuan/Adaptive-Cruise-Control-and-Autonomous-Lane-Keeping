@@ -18,10 +18,10 @@ To keep the vehicle 30 cm away from any obstacle ahead. If obstacles ahead are s
 
 The team decided to place two sensors at the front of the vehicle and use Kalman filter sensor fusion
 
-* Sampling
-  ** Send and receive sound waves from two ultrasonic sensors
-  ** Read high pulse durations of both sensors
-  ** Before Kalman filter fusion implementation, divide sensor outputs by 200 to convert into total time value in microseconds
+- Sampling
+  - Send and receive sound waves from two ultrasonic sensors
+  - Read high pulse durations of both sensors
+  - Before Kalman filter fusion implementation, divide sensor outputs by 200 to convert into total time value in microseconds
 
 * Fusion with Kalman filter
 
